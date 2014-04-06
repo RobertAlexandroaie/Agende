@@ -1,0 +1,15 @@
+n|Numepr1|Prenumepr1|0756282282| 
+f|Np3|Pp3|343543| |10-3-2010
+f|Np4|Pp4|1245455| |10-4-2010
+f|Np6|Pp6|3534| |10-3-2011
+f|Np6|Pp6|45| |10-5-2011
+f|Np7|Pp7|53656| |9-8-2010
+a|Numeaq1|Prenumeaq1|0731111110| |somer
+a|Numeaq2|Prenumeaq2|0731111112| |Angajat
+a|Numeaq3|Prenumeaq3|Nraq3| |Profesieaq3
+c|Numecol1|Prenumecol1|0756789876| |Liceu
+c|Numecol2|Prenumecol2|Nrcol2|asd@asd.com|Clasacol2
+n|Numecon1|Prenumecon1|Nrcon1| 
+f|Numepr1|Prenumepr1|0766633666| |10/2/2000
+f|Numepr2|Prenumepr2|Nrpr2| |11/2/2000
+f|Pr4|Pp5|235545| |10-3-2010

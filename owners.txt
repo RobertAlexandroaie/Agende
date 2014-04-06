@@ -1,0 +1,2 @@
+n|N|P|0
+c|Numecol|Prenumecol|Telcol|Catcol

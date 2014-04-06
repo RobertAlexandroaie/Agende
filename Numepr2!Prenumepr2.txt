@@ -1,0 +1,9 @@
+n|Numepr2|Prenumepr2|0756282282| 
+a|Numeaq1|Prenumeaq1|0731111110| |somer
+a|Numeaq2|Prenumeaq2|0731111112| |Angajat
+a|Numeaq3|Prenumeaq3|Nraq3| |Profesieaq3
+c|Numecol1|Prenumecol1|0756789876| |Liceu
+c|Numecol2|Prenumecol2|Nrcol2| |Clasacol2
+n|Numecon1|Prenumecon1|Nrcon1| 
+f|Numepr1|Prenumepr1|0766633666| |10/2/3000
+f|Numepr2|Prenumepr2|Nrpr2| |11/2/3000
